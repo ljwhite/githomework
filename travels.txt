@@ -1,0 +1,4 @@
+travels.txt
+Stockholm
+Morocco
+Utah
